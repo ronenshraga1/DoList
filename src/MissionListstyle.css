@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+    margin-left: 650px;
+}
+.container2{
+    align-items: stretch;
+    margin-left: 200px;
+
+    box-sizing: border-box;
+    border: 3px solid white !important;
+}
+h4{
+    font-size: 30px;
+}
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    background: #eee;
+    font-size: 18px;
+    transition: 0.2s;
+}
+.container .close {
+    
+  }
+  .close:hover {
+    background-color: #f44336;
+  }
+  .inputfield{
+      display: flex;
+      justify-content: space-around;
+      margin-left: 690px;
+      margin-right: 50px;
+      
+  }
+  #searchbtn{
+      margin-right: 20px;
+  }
+  #cleanbtn{
+    margin-left: 330px
+  }
+  .edit:hover {
+    background-color: #f44336;
+  }
+  p{
+      color:#f50057;
+  }
+  .checklistmissions{
+    display: inline-flex;
+  }
+ 
+
+ 
